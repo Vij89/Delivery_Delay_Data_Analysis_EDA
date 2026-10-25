@@ -1,2 +1,19 @@
-# Delivery_Delay_Data_Analysis_EDA
-## Project Overview  This project performs Exploratory Data Analysis (EDA) on a supply chain dataset using Python, Pandas, and Matplotlib. It examines data quality, missing values, duplicate records, and late-delivery patterns across shipping modes, markets, and regions to identify useful business insights and prepare for delivery-delay prediction.
+# Delivery Delay Data Analysis (EDA)
+
+## Project Overview
+This project uses Python to analyze supply chain data and identify patterns in late deliveries.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+## Analysis Performed
+- Dataset exploration and structure
+- Missing-value and duplicate checks
+- Late-delivery risk analysis
+- Comparison by shipping mode, market, and region
+- Data visualization
+
+## Objective
+To identify delivery patterns and prepare the dataset for a machine learning-based delivery delay prediction system.
